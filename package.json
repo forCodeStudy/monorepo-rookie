@@ -1,0 +1,15 @@
+{
+  "name": "monorepo-rookie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:forCodeStudy/monorepo-rookie.git",
+  "author": "cueBlog <cueblogclub@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.27"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
