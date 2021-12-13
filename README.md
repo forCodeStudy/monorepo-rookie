@@ -1,2 +1,5 @@
 # monorepo-rookie
-Explanation of knowledge points of monorepo
+
+### CMS Application based on Vuepress-next
+
+[vuepress](https://github.com/vuepress/vuepress-next)
